@@ -1,1 +1,1 @@
-# ParthipanQuiz2
+# my-quiz-game-2
